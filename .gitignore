@@ -1,4 +1,6 @@
 class docs for final project/
-deliverables/
+deliverables/*
+!deliverables/CEN4010-Neighborly-Final-project Brian Bazurto.docx
+!deliverables/Neighborly_Pitch_Deck- Brian Bazurto.pptx
 neighborhood_help_hub/flutter-android-run.log
 neighborhood_help_hub/flutter-android-run.err.log
