@@ -46,7 +46,7 @@ To run on Android instead:
 ```powershell
 cd neighborhood_help_hub
 flutter pub get
-flutter run -d emulator-5554
+flutter run -d [emulator-name]
 ```
 
 ## Build for Web
